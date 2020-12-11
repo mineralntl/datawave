@@ -71,7 +71,7 @@
         <version.jetty>6.1.26</version.jetty>
         <version.jgroups>4.0.19.Final</version.jgroups>
         <version.jjwt>0.9.1</version.jjwt>
-        <version.junit>4.12</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.junit.jupiter>5.5.2</version.junit.jupiter>
         <version.junit.vintage>5.5.2</version.junit.vintage>
         <version.kryo>2.20</version.kryo>
