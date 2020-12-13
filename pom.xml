@@ -901,6 +901,12 @@
                 <groupId>org.picketbox</groupId>
                 <artifactId>picketbox-infinispan</artifactId>
                 <version>${version.picketbox}</version>
+                <exclusions>
+                  <exclusion>
+                    <groupId>dom4j</groupId>
+                    <artifactId>dom4j</artifactId>
+                  </exclusion>
+                </exclusions>
                 <scope>provided</scope>
             </dependency>
             <dependency>
